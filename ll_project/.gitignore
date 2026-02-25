@@ -1,0 +1,18 @@
+# Virtual environment
+ll_env/
+venv/
+env/
+
+# Django database
+db.sqlite3
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
