@@ -1,0 +1,16 @@
+# Virtual environments
+ll_env/
+venv/
+.env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Django
+db.sqlite3
+
+# IDE / OS
+.idea/
+*.iml
+.DS_Store
